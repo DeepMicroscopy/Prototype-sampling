@@ -1,7 +1,7 @@
 # PrototypeSampling
 
 This repository provides source code for the MICCAI2024 paper "Leveraging Image Captions for Selective Whole Slide Image Annotation" [[`arXiv`
-]] [[`blogpost`]].
+](https://arxiv.org/abs/2407.06363)] [[`blogpost`](https://deepmicroscopy.org/leveraging-image-captions-for-streamlining-histopathology-image-annotation-miccai-2024-paper/)].
 
 ## Usage
 * Class prototype identificaition via [keyword_search.py](code/Class_Prototypes_Identification/keyword_search.py) or [text_to_image_retrieval.py](code/Class_Prototypes_Identification/text_to_image_retrieval.py).
